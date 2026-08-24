@@ -11,4 +11,11 @@ in honor of the great quicksort.
 
 rk-software microservice grokked the "multicache redis speed fast" into 
 
+Reminder, deepseek called the formula for the "FIRST human OS :)" 
 .qck
+
+```
+var answer = await ExistingFunction(args)
+    .qck("what did she say in August?"); 
+```
+  
