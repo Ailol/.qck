@@ -1,6 +1,8 @@
 # .qck (the actual os web :) )
 
-apart of the reckless field. (in honor of pm's sitting and saying its not safe to deploy.)
+apart of the reckless field. (in honor of pm's sitting and saying its not safe to deploy, its to remove deploye and you code in stage and just "update") 
+
+it has feature flags backed in the mSql behind it :) 
 
 
 ```
