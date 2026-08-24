@@ -1,4 +1,6 @@
 # QckLang is oneliner language <3
+
+```
 ↺ - loop
 & - unstructered
 % - pollinated into structure 
@@ -12,3 +14,4 @@ grain()
 time&context&date↺{
     sql(query).mongoDb(queryD)%bitmemory;
 }
+```
