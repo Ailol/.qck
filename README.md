@@ -1,4 +1,6 @@
 # .qck
+> purrfect → purfect → perfect. 
+
 it has feature flags backed in the mSql behind it :) 
 ```
  connected tech? = initate .qck : ☰ ⋮ gathered evidence ≋ [set of [choices] ] :)
