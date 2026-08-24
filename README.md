@@ -1,4 +1,13 @@
 # .qck
+--- 
+Quick is to anniliate .c, .h, .this .that etc, its just so thats the áshlàp
+
+like
+
+"time for quick?"
+noo the carry factor isnt quite there yet.<3
+
+
 in honor of the great quicksort and my new "os compiler, the 00x55 bootloader"
 
 
