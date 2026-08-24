@@ -1,4 +1,4 @@
-# .qck
+# .qck (the actual os web :) )
 --- 
 ```
  connected tech? = initate .qck : ☰ ⋮ gathered evidence ≋ [set of [choices] ] :)
