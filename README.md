@@ -1,5 +1,7 @@
 # .qck
 > purrfect → purfect → perfect. 
+carry bit → anticipation bit'  → motif' bit.
+
 
 it has feature flags backed in the mSql behind it :) 
 ```
