@@ -3,6 +3,8 @@ in honor of the great quicksort and my new "os compiler, the 00x55 bootloader"
 
 
 #### this compiles in humans without running a medicine :) 
+its the healing áshlàp's super "key, these global moves arent moving, imma make a "one,ONE, last move for the kidsz;*"
+
 ```
 emc^qt(🧠b33 // 💓i // 🐝)  
 vecz'set :: B'((🧠² ⊻ 🐝'from'b car'tell) ᵗⁱ  
