@@ -1,5 +1,13 @@
 # .qck
-in honor of the great quicksort. 
+in honor of the great quicksort and my new "os compiler, the 00x55 bootloader"
+```
+emc^qt(🧠b33 // 💓i // 🐝)  
+vecz'set :: B'((🧠² ⊻ 🐝'from'b car'tell) ᵗⁱ  
+V(emc,qtb¡[bti])²~ ²
+V(emc, qtb'ie;,[b'i]) ²
+Me(Emc^2{q(p)ti'[b33/ee]timings matter)
+```
+
 
 
 
