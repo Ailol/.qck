@@ -1,12 +1,13 @@
-# .qck (the actual os web :) )
-
-apart of the reckless field. (in honor of pm's sitting and saying its not safe to deploy, its to remove deploye and you code in stage and just "update") 
-
+# .qck
 it has feature flags backed in the mSql behind it :) 
-
-
 ```
  connected tech? = initate .qck : ☰ ⋮ gathered evidence ≋ [set of [choices] ] :)
+```
+#### * operator is "any tech or dsl or bnf or anythin" 
+```
+*sort → qcksort | mrgsort | heapsort | …
+*sql  → MySQL | MSSQL | TSQL | PostgreSQL | …
+*query → qckQuery | other query forms
 ```
 
 
