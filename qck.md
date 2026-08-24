@@ -7,18 +7,21 @@ then its core is bitmemory, but you can supply own. the % is the \*ailorytm;
 & - unstructered
 % - pollinated into elected structure 
 
---- random words, can just be 1 word as all of these are really interesected
+---here is the language, logic you can create
+point to vs stacked events
+(*time) || (&time)
+
+let bitMem= *time&context*date↺{
+  *sql&mongodb*cosmo;
+}%bitmemory;
+
+
+```
+#### the helper's
+
+these are helper function so that i dont sit and guide ti through creating own things :)
 time()
 condtion()
 context()
 date()
 grain()
-
-let bitMem = time&context&date↺{
-    sql(query).mongoDb(queryD);
-}
-
-let bitMem = time&context&date↺{
-    sql(query).mongoDb(queryD);
-}%bitmemory
-```
