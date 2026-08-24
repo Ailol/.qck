@@ -15,6 +15,11 @@ let bitMem= *time&context*date↺{
   *sql&mongodb*cosmo;
 }%bitmemory;
 
+--- rem
+*& is point to the stack
+
+&* point the data to this stack of bitmemory :)
+---
 
 ```
 #### the helper's
