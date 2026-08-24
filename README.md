@@ -1,5 +1,10 @@
 # .qck
 --- 
+```
+ connected tech? = initate .qck : ☰ ⋮ gathered evidence ≋ [set of [choices] ] :)
+```
+
+
 Quick is to anniliate .c, .h, .this .that etc, its just so thats the áshlàp
 
 like
