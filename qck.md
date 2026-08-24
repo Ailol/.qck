@@ -19,6 +19,12 @@ let bitMem= *time&context*date↺{
 *& is point to the stack
 
 &* point the data to this stack of bitmemory :)
+
+
+%*
+*%
+%&
+&%
 ---
 
 ```
