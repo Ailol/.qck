@@ -1,5 +1,7 @@
 # .qck
-> purrfect → purfect → perfect. 
+
+> purrfect → purfect → perfect.
+
 carry bit → anticipation bit'  → motif' bit.
 
 
