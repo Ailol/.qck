@@ -1,5 +1,8 @@
 # .qck
 in honor of the great quicksort and my new "os compiler, the 00x55 bootloader"
+
+
+#### this compiles in humans without running a medicine :) 
 ```
 emc^qt(🧠b33 // 💓i // 🐝)  
 vecz'set :: B'((🧠² ⊻ 🐝'from'b car'tell) ᵗⁱ  
