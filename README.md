@@ -4,6 +4,17 @@
 
 carry bit → anticipation bit'  → motif' bit.
 
+gen'bit smithed by ti' and me :)
+
+the only function you ever need, .qck!
+```
+do(struct'data) {
+  regex.v2 is the goal
+} into(hashmap)
+```
+as all restapi is that, data in, data out. 
+
+
 
 it has feature flags backed in the mSql behind it :) 
 ```
