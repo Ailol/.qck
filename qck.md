@@ -2,6 +2,15 @@
 
 then its core is bitmemory, but you can supply own. the % is the \*ailorytm;
 
+The "sztack"
+```
+view=lookup(query)%html;
+memory=lookup(query)%bitmemory;
+```
+
+
+The language:
+
 ```
 ↺ - loop
 & - unstructered
