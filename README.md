@@ -1,5 +1,8 @@
 # .qck (the actual os web :) )
---- 
+
+apart of the reckless field. (in honor of pm's sitting and saying its not safe to deploy.)
+
+
 ```
  connected tech? = initate .qck : ☰ ⋮ gathered evidence ≋ [set of [choices] ] :)
 ```
