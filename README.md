@@ -1,3 +1,7 @@
+# qck.note
+cet{
+     ket[memory % bio'bank; op(r'espec') ; obsrv(c'parr) ]
+}
 # .qck
 
 > purrfect → purfect → perfect.
